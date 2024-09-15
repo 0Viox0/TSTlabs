@@ -1,3 +1,5 @@
+#!/bin/bash
+
 interface=enp0s3
 
 staticIp="10.100.0.2"
